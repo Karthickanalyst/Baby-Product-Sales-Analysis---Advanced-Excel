@@ -1,6 +1,6 @@
-**Baby-Product-Sales-Analysis---Advanced-Excel**
+# **Baby-Product-Sales-Analysis---Advanced-Excel**
 
-# 🎯 Objective
+## 🎯 Objective
 
 This project aims to perform a comprehensive analysis of retail sales transaction data 
 using Microsoft Excel.
