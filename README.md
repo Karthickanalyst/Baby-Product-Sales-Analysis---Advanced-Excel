@@ -80,6 +80,10 @@ The dataset includes retail sales transactions with fields such as:
 - Slicers: Filter by date, sales channel, and product type
 - Dashboard: KPIs (Total Sales, Return Rate, Top Channels)
 
+- ## Author
+
+- ***Karthick.T***
+- **Date** - 02-01-2025
 
 
 
