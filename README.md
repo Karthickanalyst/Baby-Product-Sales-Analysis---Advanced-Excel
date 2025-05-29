@@ -1,6 +1,6 @@
-Baby-Product-Sales-Analysis---Advanced-Excel
+**Baby-Product-Sales-Analysis---Advanced-Excel**
 
-🎯 Objective
+# 🎯 Objective
 
 This project aims to perform a comprehensive analysis of retail sales transaction data 
 using Microsoft Excel.
@@ -13,7 +13,7 @@ The goal is to extract actionable business insights, visualize sales performance
 - Macros
 - Dashboards
 
-🧰 Tools & Features Used
+## 🧰 Tools & Features Used
 
 - Excel Functions (SUM, AVERAGEIF, IFERROR, COUNTIFS)
 - Power Query for data cleaning and transformation
@@ -25,12 +25,11 @@ The goal is to extract actionable business insights, visualize sales performance
 
 
 
-
- 🗃️ Dataset Description
+ ## 🗃️ Dataset Description
 
 The dataset includes retail sales transactions with fields such as:
 
-1.` Date',
+1.` Date `  ,
 2.`Order ID`, 
 3.`Sales Channel`,
 4. `Product Type`, 
@@ -42,7 +41,7 @@ The dataset includes retail sales transactions with fields such as:
 10.`Shipping`, 
 11.`Net Quantity`, etc.
 
- ✅ Key Tasks Completed
+## ✅ Key Tasks Completed
 
  1. **Data Cleaning & Preparation**
 - Removed duplicates and blanks
@@ -75,7 +74,7 @@ The dataset includes retail sales transactions with fields such as:
 - Connected multiple data tables
 - Built calculated columns and advanced PivotTables
 
-📈 Sample Visuals
+## 📈 Sample Visuals
  
 - Pivot Charts: Sales trends over time, product category comparisons
 - Slicers: Filter by date, sales channel, and product type
